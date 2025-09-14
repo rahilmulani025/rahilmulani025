@@ -41,7 +41,7 @@
 ### 🔥 Featured Projects  
 
 🔗 [*Ecommerce Order Analysis*](https://github.com/rahilmulani025/Movie-Dataset-Analysis) – PowerBI, Data Visualization, KPL <br>
-🔗 [*Movie Dataset Analysis*](https://github.com/rahilmulani025/Movie-Dataset-Analysis) – EDA with Python, Seaborn, Matplotlib, WordCloud <br>
+🔗 [*Movie Dataset Analysis*](https://github.com/rahilmulani025/Movie-analysis) – EDA with Python, Seaborn, Matplotlib, WordCloud <br>
 🎮 [*Tic Tac Toe Game*](https://github.com/rahilmulani025/TicTacToe_game) – A Simple Game With 1vsAI System . Made with HTML , CSS & JS <br>
 🌐 [*Prediction01 (Frontend Practice)*](https://rahilmulani025.github.io/Prediction01/) – Testing HTML, CSS & JS basics <br>
 📄 [*Resume Repository*](https://github.com/rahilmulani025/Resume) – My professional resumes for Data & Web roles  

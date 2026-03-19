@@ -40,10 +40,11 @@
 
 ### 🔥 Featured Projects  
 
+
+🔗 [*Adani Ports & Renewable Energy - Statistical & BI Analysis*](https://github.com/rahilmulani025/Port_logistics_Performance_Analyis-Adani_ports) – full-scale statistical and business intelligence analysis of India's largest port operator<br>
+🔗 [*IT-Service-Financial-Analysis*](https://github.com/rahilmulani025/IT-Service-Financial-Analysis) – Business Analyst Case Study | Excel + Power BI <br>
 🔗 [*Ecommerce Order Analysis*](https://github.com/rahilmulani025/Ecommerce-Order-Analysis-Dashboard-) – PowerBI, Data Visualization, KPL <br>
 🔗 [*Movie Dataset Analysis*](https://github.com/rahilmulani025/Movie-analysis) – EDA with Python, Seaborn, Matplotlib, WordCloud <br>
-🎮 [*Tic Tac Toe Game*](https://github.com/rahilmulani025/TicTacToe_game) – A Simple Game With 1vsAI System . Made with HTML , CSS & JS <br>
-🌐 [*Prediction01 (Frontend Practice)*](https://rahilmulani025.github.io/Prediction01/) – Testing HTML, CSS & JS basics <br>
 📄 [*Resume Repository*](https://github.com/rahilmulani025/Resume) – My professional resumes for Data & Web roles  
 
 ---
